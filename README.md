@@ -28,7 +28,7 @@ Official Links
 
  - Website : https://neexstar.com/
 
- - Blog : https://www.neexstarsocialcommunity.org/
+ - Blog : https://www.neexstarsocialcommunity.org/  (UNDER REPAIRS)
 
  - Twitter : https://twitter.com/Neexstar
 
@@ -37,4 +37,7 @@ Official Links
  - Medium : https://medium.com/@neexstarecosystem
 
  - Discord : https://discordapp.com/invite/6eRPDNK
+ 
+ - Ann : https://bitcointalk.org/index.php?topic=5226981.msg53870846
+ 
 
