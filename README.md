@@ -1,8 +1,7 @@
 <img src="/share/pixmaps/bitcoin128.png">
 
 
-**GROWING ECOSYSTEM GLOBAL**
-Focus On Community
+**GROWING ECOSYSTEM GLOBAL** ( Focus On Community )
 
 *Our company is a collective of amazing people striving to build delightful products*
 
