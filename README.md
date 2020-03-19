@@ -2,6 +2,7 @@
 
 
 **GROWING ECOSYSTEM GLOBAL**
+Focus On Community
 
 *Our company is a collective of amazing people striving to build delightful products*
 
