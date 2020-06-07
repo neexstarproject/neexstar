@@ -1122,7 +1122,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 }
 
 static const int64 nTargetTimespan = 15 * 60; // Neexstar: 15 minutes
-static const int64 nTargetSpacing = 7.5 * 60; // Neexstar: 2.5 minutes
+static const int64 nTargetSpacing = 7.5 * 60; // Neexstar: 7.5 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
